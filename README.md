@@ -1,4 +1,4 @@
-# classification-ECG-by-two-new-methods
+# classification-ECG-by-pycaret and Tab Transformer
 
 # About Dataset
 
