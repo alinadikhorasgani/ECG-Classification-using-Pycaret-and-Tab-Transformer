@@ -1,4 +1,4 @@
-# classification-ECG-by-pycaret and Tab Transformer
+# Classification-ECG-by-Pycaret and Tab Transformer
 
 # About Dataset
 
