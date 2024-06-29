@@ -1,4 +1,4 @@
-# Classification ECG by Pycaret and Tab Transformer
+# ECG  Classification using Pycaret and Tab Transformer
 
 # About Dataset
 
